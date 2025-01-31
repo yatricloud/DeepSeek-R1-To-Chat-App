@@ -126,7 +126,7 @@ Chat Yatri is an advanced AI-powered chat interface developed by Yatri Cloud. It
 - [Nginx Setup](docs/nginx.md)
 - [Connecting DeepSeek Ollama with the UI](docs/connect-ollama-ui.md)
 - [Contributing](CONTRIBUTING.md)
-- 
+  
 ### **Our Website:** [**Visit us**](https://yatricloud.com)
 
 
