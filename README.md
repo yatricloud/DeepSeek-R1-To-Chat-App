@@ -19,7 +19,10 @@ Chat Yatri is an advanced AI-powered chat interface developed by Yatri Cloud. It
 ### Prerequisites
 
 1. **Ubuntu**: Ensure your system is up to date and install npm.
+**Copy and execute SSH command**
+
     ```sh
+    ssh -i ~/.ssh/id_rsa.pem username@ipaddress
     sudo apt update && sudo apt upgrade -y
     sudo apt install npm
     ```
