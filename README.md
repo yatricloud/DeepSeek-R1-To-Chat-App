@@ -2,15 +2,6 @@
 
 Chat Yatri is an advanced AI-powered chat interface developed by Yatri Cloud. It provides natural, context-aware conversations with lightning-fast responses and enterprise-grade security.
 
-<div align="center">
-  <a href="https://youtu.be/<id>">
-    <img src="https://img.youtube.com/vi/<id>.jpg" alt="Watch Now" />
-  </a>
-  <br/>
-  <a href="">Watch Now</a>
-</div>
-
-
 ## Features
 
 - **Natural Conversations**: Engage in fluid, context-aware conversations with advanced AI.
